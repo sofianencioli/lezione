@@ -1,0 +1,3 @@
+/home/pcsdocker/Data/eser_1/Build_es1/CMakeFiles/esercizio1.dir
+/home/pcsdocker/Data/eser_1/Build_es1/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/eser_1/Build_es1/CMakeFiles/rebuild_cache.dir
