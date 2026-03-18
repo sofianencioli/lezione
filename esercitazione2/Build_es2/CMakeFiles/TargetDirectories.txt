@@ -1,0 +1,4 @@
+/home/pcsdocker/Data/lezione/esercitazione2/Build_es2/CMakeFiles/esercizio2.dir
+/home/pcsdocker/Data/lezione/esercitazione2/Build_es2/CMakeFiles/posizionamento.dir
+/home/pcsdocker/Data/lezione/esercitazione2/Build_es2/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/lezione/esercitazione2/Build_es2/CMakeFiles/rebuild_cache.dir
