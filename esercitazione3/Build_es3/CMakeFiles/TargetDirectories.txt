@@ -1,0 +1,3 @@
+/home/pcsdocker/Data/lezione/esercitazione3/Build_es3/CMakeFiles/main.dir
+/home/pcsdocker/Data/lezione/esercitazione3/Build_es3/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/lezione/esercitazione3/Build_es3/CMakeFiles/rebuild_cache.dir
