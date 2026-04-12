@@ -19,8 +19,14 @@ int main(void) {
     }
     vector<string> vstring= {"ciao","sofia","io","calcolo","programmazione","luca","fisica","delia","pasqua","buona","auguri"};
     selection_sort(vstring);
+    for (int j = 0; j<10;j = j+1){
+        cout<< vstring[j] << " , ";
+    }
+    cout<< "\n";
     if (!is_sorted(vstring)){
+        cout<<"sbagliato"<<"\n";
             return EXIT_FAILURE;
         }
+        cout <<"giusto"<<"\n";
     return EXIT_SUCCESS;
 }
