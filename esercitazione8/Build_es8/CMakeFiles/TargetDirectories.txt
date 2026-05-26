@@ -1,0 +1,4 @@
+/home/pcsdocker/Data/lezione/esercitazione8/Build_es8/CMakeFiles/main_program.dir
+/home/pcsdocker/Data/lezione/esercitazione8/Build_es8/CMakeFiles/test.dir
+/home/pcsdocker/Data/lezione/esercitazione8/Build_es8/CMakeFiles/edit_cache.dir
+/home/pcsdocker/Data/lezione/esercitazione8/Build_es8/CMakeFiles/rebuild_cache.dir
